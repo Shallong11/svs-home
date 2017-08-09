@@ -1,0 +1,9 @@
+.Header {
+    width: 100%;
+    text-align: center;
+}
+
+.Artwork {
+    width: 100%;
+    max-width: 1024px;
+}

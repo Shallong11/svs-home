@@ -1,0 +1,35 @@
+.Nav {
+    margin: 0;
+    padding: 0;
+    height:36px;
+    line-height: 36px;
+    border-top: 1px solid #eee;
+}
+
+.Nav ul {
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.Nav ul li {
+    list-style: none;
+    display: inline-block;
+    color: #999;
+}
+
+.Nav ul li a {
+    color: #999;
+    text-decoration: none;
+    height: 36px;
+    line-height: 36px;
+    padding: 10px;
+}
+
+.Nav ul li a:hover {
+    background: #233333;
+    color: white;
+    font-weight: 600;
+}
