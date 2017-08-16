@@ -4,7 +4,7 @@ module.exports = {
   entry: './src/Main.js',
   output: {
     filename: 'svs-home.bundle.js',
-    path: path.resolve(__dirname, 'public')
+    path: path.resolve(__dirname, 'public', 'build')
   },
   devServer: {
     contentBase: './public',
